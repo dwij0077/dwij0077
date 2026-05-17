@@ -58,10 +58,9 @@ A sleek, responsive and fully functional productivity application.
 
 <br>
 
-## 🎨 4. DIGI GROW – Marketing Agency Project  
-- Helped brands create digital presence  
-- Social media creatives + reels + carousels  
-- Brand strategy + content production pipeline  
+## Founder & CEO at Abstract Global Tech, focused on building AI-powered digital solutions and scalable technology systems for modern businesses. Experienced in intelligent automation, custom software development, AI tools, chatbots, and digital transformation solutions that improve operational efficiency and business growth.
+
+At Abstract Global Tech, we combine technology, strategy, and creative innovation to help brands establish a strong digital presence through content production, social media creatives, reels, and data-driven marketing solutions. Passionate about transforming complex business challenges into impactful digital products and scalable growth opportunities.
 
 <br>
 
