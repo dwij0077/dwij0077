@@ -19,12 +19,19 @@
 - Skilled in **Web Dev, UI/UX, Data, and Digital Growth**  
 - Enthusiastic about **automation + product design**  
 - Loves **late-night coding with chill music**  
+- Bulding Abstract Global Tech**
 
 <p align="center">
   <img src="https://github.com/Anubhavdxt/AssetsCDN/raw/main/spiderman/portal.gif" width="340px">
 </p>
 
 ---
+
+## Founder & CEO at Abstract Global Tech, focused on building AI-powered digital solutions and scalable technology systems for modern businesses. Experienced in intelligent automation, custom software development, AI tools, chatbots, and digital transformation solutions that improve operational efficiency and business growth.
+
+At Abstract Global Tech, we combine technology, strategy, and creative innovation to help brands establish a strong digital presence through content production, social media creatives, reels, and data-driven marketing solutions. Passionate about transforming complex business challenges into impactful digital products and scalable growth opportunities.
+
+<br>
 
 # ⭐ Featured Projects
 
@@ -55,12 +62,6 @@ A sleek, responsive and fully functional productivity application.
 - Automated data refresh every few seconds  
 - Auto-save system to avoid Excel hangs  
 - Used in real-world data monitoring workflows  
-
-<br>
-
-## Founder & CEO at Abstract Global Tech, focused on building AI-powered digital solutions and scalable technology systems for modern businesses. Experienced in intelligent automation, custom software development, AI tools, chatbots, and digital transformation solutions that improve operational efficiency and business growth.
-
-At Abstract Global Tech, we combine technology, strategy, and creative innovation to help brands establish a strong digital presence through content production, social media creatives, reels, and data-driven marketing solutions. Passionate about transforming complex business challenges into impactful digital products and scalable growth opportunities.
 
 <br>
 
