@@ -71,7 +71,6 @@ A sleek, responsive and fully functional productivity application.
 - Responsive layout creation
 - UI improvements
 - Deployment setup  
-🔗 Live Demo: https://nandani-makwana.netlify.app/
 
 <br>
 
