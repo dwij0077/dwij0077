@@ -4,7 +4,7 @@
   <img src="https://github.com/Anubhavdxt/AssetsCDN/raw/main/spiderman/swing.gif" width="100%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0011ff&height=180&section=header&text=Hey%20👋%20I'm%20Dwij%20Thakar!&fontSize=36&fontAlignY=35&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,100:0011ff&height=180&section=header&text=Hey%20%20I'm%20Dwij%20Thakar!&fontSize=36&fontAlignY=35&animation=fadeIn" width="100%"/>
 
 <h3 align="center">🚀 Software Developer | 📊 Data Analyst | 🎨 UI/UX Enthusiast | 📈 Digital Marketer</h3>
 
